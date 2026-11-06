@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="330" viewBox="0 0 920 330">
+  <rect x="1" y="1" width="918" height="328" rx="10" fill="#0D1117" stroke="#30363D" stroke-width="2"/>
+  <path d="M1 11 a10 10 0 0 1 10 -10 h898 a10 10 0 0 1 10 10 v25 h-918 z" fill="#161B22"/>
+  <circle cx="26" cy="19" r="6" fill="#FF5F56"/>
+  <circle cx="47" cy="19" r="6" fill="#FFBD2E"/>
+  <circle cx="68" cy="19" r="6" fill="#27C93F"/>
+  <text x="460" y="24" text-anchor="middle" font-family="Consolas,'Courier New',monospace" font-size="12" fill="#8B949E">marley@bh: ~/perfil — bash</text>
+  <g font-family="Consolas,'Courier New',monospace" font-size="14.5">
+    <text x="28" y="76"><tspan fill="#2DD4BF">$</tspan><tspan fill="#E6EDF3" dx="8">whoami</tspan></text>
+    <text x="28" y="106" fill="#C9D1D9">Marley Rosa Luciano — Plant Modeling Engineer (XiL) · Mestre em Eng. Elétrica</text>
+    <text x="28" y="140"><tspan fill="#2DD4BF">$</tspan><tspan fill="#E6EDF3" dx="8">cat foco_atual.txt</tspan></text>
+    <text x="28" y="170" fill="#C9D1D9">» Modelos de planta p/ validação XiL/HIL — MATLAB/Simulink (+7 anos)</text>
+    <text x="28" y="198" fill="#C9D1D9">» Professor de pós-graduação @ PUC Minas — automação, supervisórios &amp; IA</text>
+    <text x="28" y="226" fill="#C9D1D9">» Agentes de IA em produção: MCP · RAG · fine-tuning · automações</text>
+    <text x="28" y="260"><tspan fill="#2DD4BF">$</tspan><tspan fill="#E6EDF3" dx="8">ls projetos/</tspan></text>
+    <text x="28" y="290" fill="#38BDF8">NexusMBD/  BootMLShopee/  Nexus-Agents-Academy/  Marley_News/  FamilYMoney/</text>
+  </g>
+</svg>
